@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AlaaSaadAbdo
-- 👀 I’m interested in Cloud Technologies, Continious Delivery and automation
-- 🌱 I’m currently learning Rust :D
-- 📫 Reach me at: https://amanso.me
+- 👀 I’m interested designing and building keyboards
 
 <!---
 AlaaSaadAbdo/AlaaSaadAbdo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
